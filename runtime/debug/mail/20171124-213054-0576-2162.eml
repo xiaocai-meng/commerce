@@ -1,0 +1,114 @@
+Message-ID: <c22aa19df595eb686bb786359a481165@test.commerce.com>
+Date: Fri, 24 Nov 2017 21:30:51 +0800
+Subject: Shop log message
+From: 1026251951@qq.com
+To: xiaomengxiaoqiu@163.com, sss@qq.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+2017-11-24 21:30:51 [127.0.0.1][-][-][warning][application] 1111
+    in=
+
+/Applications/MAMP/htdocs/basic/controllers/IndexController.php:13
+201=
+7-11-24 21:30:51 [127.0.0.1][-][-][info][application] $_COOKIE =3D [
+    =
+'__admin_identity' =3D>
+'e2d8871c906a73bc63d0fd38781384be3e57be26b7b01875=
+029a86baa6a5aae2a:2:{i:0;s:16:\"__admin_identity\";i:1;s:14:\"[1,null,86400=
+]\";}'
+]
+
+$_SERVER =3D [
+    'SHELL' =3D> '/bin/bash'
+    'TMPDIR=
+' =3D> '/var/folders/dp/ctx5xy0j2lz1735k4q43hrww0000gn/T/'
+    'Apple_Pub=
+Sub_Socket_Render' =3D>
+'/private/tmp/com.apple.launchd.suN5MdKmWE/Render=
+'
+    '__AUTHORIZATION' =3D> 'auth 14'
+    'USER' =3D> 'xiaocai'
+    =
+'SSH_AUTH_SOCK' =3D>
+'/private/tmp/com.apple.launchd.VMbDTeu5aw/Listeners=
+'
+    '__CF_USER_TEXT_ENCODING' =3D> '0x1F5:0x19:0x34'
+    '_BASH_IMPLI=
+CIT_DASH_PEE' =3D> '-p'
+    'PHP_FCGI_CHILDREN' =3D> '4'
+    'PATH' =3D=
+> '/usr/bin:/bin:/usr/sbin:/sbin'
+    '_' =3D> '/Applications/MAMP/Librar=
+y/bin/spawn-fcgi'
+    'PWD' =3D> '/'
+    'XPC_FLAGS' =3D> '0x0'
+    '=
+XPC_SERVICE_NAME' =3D> '0'
+    'HOME' =3D> '/Users/xiaocai'
+    'SHLVL'=
+ =3D> '1'
+    'LOGNAME' =3D> 'xiaocai'
+    'HTTP_COOKIE' =3D>
+'__admi=
+n_identity=3De2d8871c906a73bc63d0fd38781384be3e57be26b7b01875029a86baa6a5aa=
+e2a%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22__admin_identity%22%3Bi%3A1%3Bs%3A14%3A%22=
+%5B1%2Cnull%2C86400%5D%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' =3D> 'zh-CN,z=
+h;q=3D0.9,en;q=3D0.8'
+    'HTTP_ACCEPT_ENCODING' =3D> 'gzip, deflate'
+ =
+   'HTTP_ACCEPT' =3D>
+'text/html,application/xhtml+xml,application/xml;q=
+=3D0.9,image/webp,image/apng,*/*;q=3D0.8'
+    'HTTP_UPGRADE_INSECURE_REQU=
+ESTS' =3D> '1'
+    'HTTP_USER_AGENT' =3D> 'Mozilla/5.0 (Macintosh; Intel =
+Mac OS X
+10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202=
+.94
+Safari/537.36'
+    'HTTP_CACHE_CONTROL' =3D> 'max-age=3D0'
+    'H=
+TTP_CONNECTION' =3D> 'keep-alive'
+    'HTTP_HOST' =3D> 'test.commerce.com=
+'
+    'REDIRECT_STATUS' =3D> '200'
+    'SERVER_NAME' =3D> 'test.commerc=
+e.com'
+    'SERVER_PORT' =3D> '80'
+    'SERVER_ADDR' =3D> '127.0.0.1'=
+
+    'REMOTE_PORT' =3D> '50222'
+    'REMOTE_ADDR' =3D> '127.0.0.1'
+  =
+  'SERVER_SOFTWARE' =3D> 'nginx/1.11.4'
+    'GATEWAY_INTERFACE' =3D> 'CGI=
+/1.1'
+    'SERVER_PROTOCOL' =3D> 'HTTP/1.1'
+    'DOCUMENT_ROOT' =3D> '/=
+Applications/MAMP/htdocs/basic/web'
+    'DOCUMENT_URI' =3D> '/index.php'=
+
+    'REQUEST_URI' =3D> '/'
+    'SCRIPT_NAME' =3D> '/index.php'
+    '=
+CONTENT_LENGTH' =3D> ''
+    'CONTENT_TYPE' =3D> ''
+    'REQUEST_METHOD'=
+ =3D> 'GET'
+    'QUERY_STRING' =3D> ''
+    'SCRIPT_FILENAME' =3D>
+'/A=
+pplications/MAMP/htdocs/basic/web/index.php'
+    'FCGI_ROLE' =3D> 'RESPON=
+DER'
+    'PHP_SELF' =3D> '/index.php'
+    'REQUEST_TIME_FLOAT' =3D> 151=
+1530251.38
+    'REQUEST_TIME' =3D> 1511530251
+    'argv' =3D> []
+    =
+'argc' =3D> 0
+]

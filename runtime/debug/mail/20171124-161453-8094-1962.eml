@@ -1,0 +1,132 @@
+Message-ID: <79d194adefe82af06155734dc7862e5f@test.commerce.com>
+Date: Fri, 24 Nov 2017 16:14:50 +0800
+Subject: Shop log message
+From: 1026251951@qq.com
+To: xiaomengxiaoqiu@163.com, sss@qq.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+2017-11-24 16:14:50 [127.0.0.1][-][-][warning][application] 1111
+    in=
+
+/Applications/MAMP/htdocs/basic/controllers/IndexController.php:13
+201=
+7-11-24 16:14:50 [127.0.0.1][-][-][info][application] $_COOKIE =3D [
+    =
+'_csrf' =3D>
+'b225e035e0ce633413fa30d183a9c0cfcabdecdfeb7e46333a3192cd6d5=
+058fca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"gtNTXURcxhR4cUqpTBpdGjYfiIjKRh09\";}=
+'
+    'PHPSESSID' =3D> '5a5fa95f25a25c0c88fd6a3461df08ec'
+    '__admin_=
+identity' =3D>
+'e2d8871c906a73bc63d0fd38781384be3e57be26b7b01875029a86baa=
+6a5aae2a:2:{i:0;s:16:\"__admin_identity\";i:1;s:14:\"[1,null,86400]\";}'
+=
+]
+
+$_SESSION =3D [
+    '__flash' =3D> []
+    '__returnUrl' =3D> '/a=
+dmin.html'
+    '__admin' =3D> 1
+]
+
+$_SERVER =3D [
+    'SHELL' =3D=
+> '/bin/bash'
+    'TMPDIR' =3D> '/var/folders/dp/ctx5xy0j2lz1735k4q43hrww=
+0000gn/T/'
+    'Apple_PubSub_Socket_Render' =3D>
+'/private/tmp/com.appl=
+e.launchd.iucy7Mt2Du/Render'
+    '__AUTHORIZATION' =3D> 'auth 9'
+    'U=
+SER' =3D> 'xiaocai'
+    'SSH_AUTH_SOCK' =3D>
+'/private/tmp/com.apple.la=
+unchd.v8AOpD2yjG/Listeners'
+    '__CF_USER_TEXT_ENCODING' =3D> '0x1F5:0x1=
+9:0x34'
+    '_BASH_IMPLICIT_DASH_PEE' =3D> '-p'
+    'PHP_FCGI_CHILDREN'=
+ =3D> '4'
+    'PATH' =3D> '/usr/bin:/bin:/usr/sbin:/sbin'
+    '_' =3D> =
+'/Applications/MAMP/Library/bin/spawn-fcgi'
+    'PWD' =3D> '/'
+    'XPC=
+_FLAGS' =3D> '0x0'
+    'XPC_SERVICE_NAME' =3D> '0'
+    'HOME' =3D> '/Us=
+ers/xiaocai'
+    'SHLVL' =3D> '1'
+    'LOGNAME' =3D> 'xiaocai'
+    'H=
+TTP_COOKIE' =3D>
+'_csrf=3Db225e035e0ce633413fa30d183a9c0cfcabdecdfeb7e463=
+33a3192cd6d5058fca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A=
+%22gtNTXURcxhR4cUqpTBpdGjYfiIjKRh09%22%3B%7D;
+PHPSESSID=3D5a5fa95f25a25c0=
+c88fd6a3461df08ec;
+__admin_identity=3De2d8871c906a73bc63d0fd38781384be3e5=
+7be26b7b01875029a86baa6a5aae2a%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22__admin_identit=
+y%22%3Bi%3A1%3Bs%3A14%3A%22%5B1%2Cnull%2C86400%5D%22%3B%7D'
+    'HTTP_ACC=
+EPT_LANGUAGE' =3D> 'zh-CN,zh;q=3D0.9,en;q=3D0.8'
+    'HTTP_ACCEPT_ENCODIN=
+G' =3D> 'gzip, deflate'
+    'HTTP_ACCEPT' =3D>
+'text/html,application/x=
+html+xml,application/xml;q=3D0.9,image/webp,image/apng,*/*;q=3D0.8'
+    '=
+HTTP_UPGRADE_INSECURE_REQUESTS' =3D> '1'
+    'HTTP_USER_AGENT' =3D> 'Mozi=
+lla/5.0 (Macintosh; Intel Mac OS X
+10_11_6) AppleWebKit/537.36 (KHTML, li=
+ke Gecko) Chrome/62.0.3202.94
+Safari/537.36'
+    'HTTP_CACHE_CONTROL' =
+=3D> 'max-age=3D0'
+    'HTTP_CONNECTION' =3D> 'keep-alive'
+    'HTTP_HO=
+ST' =3D> 'test.commerce.com'
+    'REDIRECT_STATUS' =3D> '200'
+    'SERV=
+ER_NAME' =3D> 'test.commerce.com'
+    'SERVER_PORT' =3D> '80'
+    'SERV=
+ER_ADDR' =3D> '127.0.0.1'
+    'REMOTE_PORT' =3D> '55914'
+    'REMOTE_AD=
+DR' =3D> '127.0.0.1'
+    'SERVER_SOFTWARE' =3D> 'nginx/1.11.4'
+    'GAT=
+EWAY_INTERFACE' =3D> 'CGI/1.1'
+    'SERVER_PROTOCOL' =3D> 'HTTP/1.1'
+  =
+  'DOCUMENT_ROOT' =3D> '/Applications/MAMP/htdocs/basic/web'
+    'DOCUMEN=
+T_URI' =3D> '/index.php'
+    'REQUEST_URI' =3D> '/'
+    'SCRIPT_NAME' =
+=3D> '/index.php'
+    'CONTENT_LENGTH' =3D> ''
+    'CONTENT_TYPE' =3D> =
+''
+    'REQUEST_METHOD' =3D> 'GET'
+    'QUERY_STRING' =3D> ''
+    'SC=
+RIPT_FILENAME' =3D>
+'/Applications/MAMP/htdocs/basic/web/index.php'
+   =
+ 'FCGI_ROLE' =3D> 'RESPONDER'
+    'PHP_SELF' =3D> '/index.php'
+    'REQ=
+UEST_TIME_FLOAT' =3D> 1511511290.41
+    'REQUEST_TIME' =3D> 1511511290
+=
+    'argv' =3D> []
+    'argc' =3D> 0
+]
